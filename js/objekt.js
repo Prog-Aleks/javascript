@@ -25,7 +25,7 @@ for (let key in options) {
             console.log(`Свойства ${i} имеет значенние ${options[key][i]}`);
         } 
     } else {
-        console.log(`${key}: ${options[key]}`);
+    console.log(`${key}: ${options[key]}`);
         counter++;
     }
     
