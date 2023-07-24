@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.fontFamily": "JetBrains Mono ExtraBold",
+    "editor.fontSize": 18,
+    "editor.formatOnSave": true
+}
